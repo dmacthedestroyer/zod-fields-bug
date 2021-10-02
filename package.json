@@ -1,0 +1,23 @@
+{
+  "name": "zod-fields-bug",
+  "version": "1.0.0",
+  "description": "recreating issue with zod objects having optional fields by default",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmacthedestroyer/zod-fields-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmacthedestroyer/zod-fields-bug/issues"
+  },
+  "homepage": "https://github.com/dmacthedestroyer/zod-fields-bug#readme",
+  "dependencies": {
+    "typescript": "^4.4.3",
+    "zod": "^3.9.5"
+  }
+}
